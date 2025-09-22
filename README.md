@@ -1,4 +1,4 @@
 # atharva01
 This is my first git repository.
 <Br>
-Author-Atharva Ghadge
+Author-Atharva Ghadge (theag)
